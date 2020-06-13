@@ -1,0 +1,11 @@
+Hyperparameters:
+Initial Learning Rate: 0.01
+Epochs: 25
+Batch Size: 16
+Average Pooling: 2x2
+Output File: output-lr-0.01.txt
+3.500000000000000000e+01 0.000000000000000000e+00
+3.000000000000000000e+00 3.800000000000000000e+01
+accuracy: 0.9605
+sensitivity: 0.9211
+specificity: 1.0000

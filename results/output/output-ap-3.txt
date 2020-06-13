@@ -1,0 +1,11 @@
+Hyperparameters:
+Initial Learning Rate: 0.001
+Epochs: 25
+Batch Size: 16
+Average Pooling: 3x3
+Output File: output-ap-3.txt
+3.300000000000000000e+01 0.000000000000000000e+00
+5.000000000000000000e+00 3.800000000000000000e+01
+accuracy: 0.9342
+sensitivity: 0.8684
+specificity: 1.0000
